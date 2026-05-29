@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Model Dashboard
 
 Quick steps to run the Streamlit app locally:
@@ -18,3 +19,7 @@ python -m streamlit run model/app.py
 4. In the app: upload your CSV, go to "Train Model", click "Train Model" to train and save the model. Use "Insights" to upload CSVs and get predictions.
 
 Model is saved to `model/model.pkl` after training.
+=======
+# AI_model
+my AI model
+>>>>>>> c167164e10ec649a12e3897cbdf50962e705d3f1
