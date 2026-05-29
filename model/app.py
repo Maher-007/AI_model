@@ -95,6 +95,7 @@ if selected == "Home":
         ("Maahir Mohammed", "ADS24B00104Y"),
         ("Abdul Rahman Mahmoud", "ADS24B00129Y"),
         ("Janet Aborvor", "ADS24B00156Y"),
+        ("Pius Angiak","ADS23B00111Y")
         
     ]
 
